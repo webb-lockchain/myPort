@@ -195,7 +195,7 @@
                 "MERN | Python | PHP",
                 "",
                 "Contact:",
-                "sayjun0505@gmail.com",
+                "evandjones91@outlook.com",
             ],
             [
                 "Produced By:",
@@ -205,7 +205,7 @@
                 "MERN | Python | PHP",
                 "",
                 "Contact:",
-                "sayjun0505@gmail.com",
+                "evandjones91@outlook.com",
             ],
             [
                 "Produced By:",
@@ -215,7 +215,7 @@
                 "MERN | Python | PHP",
                 "",
                 "Contact:",
-                "sayjun0505@gmail.com",
+                "evandjones91@outlook.com",
             ],
             [
                 "Produced By:",
@@ -225,7 +225,7 @@
                 "MERN | Python | PHP",
                 "",
                 "Contact:",
-                "sayjun0505@gmail.com",
+                "evandjones91@outlook.com",
             ],
         ];
 
